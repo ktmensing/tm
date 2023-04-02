@@ -11,7 +11,7 @@ body {
 
 .poem {
   background-color: white;
-  font-family: monospace;
+  font-family: 'Nimbus Mono PS', 'Courier New', 'Cutive Mono', monospace;
   font-size: 2em;
   font-size: 6vw;
   padding: 2.5vw;
