@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Hi-Q</title>
+  <link>https://polite-sunflower-817bbb.netlify.app/</link>
+  <description>Daily(ish) micropoems from an exploding mind.</description>
+  <item>
+    <title>Today's Hi-Q</title>
+    <link>https://polite-sunflower-817bbb.netlify.app/</link>
+    <description>religious brick / whitewashed / uplit</description>
+  </item>
+</channel>
+
+</rss>
