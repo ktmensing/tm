@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://polite-sunflower-817bbb.netlify.app/">
-
 <channel>
   <title>Hi-Q</title>
   <link>https://polite-sunflower-817bbb.netlify.app/</link>
   <description>Daily(ish) micropoems from an exploding mind.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 07 Apr 2023 15:27:00 GMT</lastBuildDate>
+  <lastBuildDate>Fri, April 7 2023</lastBuildDate>
   <item>
-    <title>Hi-Q//040523</title>
+    <title>Hi-Q//040723</title>
     <link>https://polite-sunflower-817bbb.netlify.app/</link>
-    <description>
+    <guid>https://polite-sunflower-817bbb.netlify.app/</guid>
+<description>
 door in back / 
 door in mountain / 
 door yawned wide / 
@@ -18,8 +18,7 @@ door in cracked open /
 cavern of the heart / 
 or its memory 
           </description>
-    <pubDate>Fri, 07 Apr 2023 15:27:00 GMT</pubDate>
+    <pubDate>Fri, April 7 2023</pubDate>
 </item>
 </channel>
-
 </rss>
